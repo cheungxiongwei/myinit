@@ -1,3 +1,3 @@
-module github.com/cheungxiongwei/init
+module github.com/cheungxiongwei/myinit
 
 go 1.16
